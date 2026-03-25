@@ -97,7 +97,59 @@ erőforrások igazságos elosztásáért.
 
 # Internet technológia
 
+## Az Agilis kiáltvány 12 alapelve
 
+
+## Agilis módszertanok típusai
+
+- Scrum
+- Kanban
+- Extreme Programming (XP)
+- LSD
+- Crystal Methods
+- FDD
+
+### Extreme Programming (XP)
+
+- Kent Beck (90‐es évek)
+- Célja: jobb minőségű szoftver és gyorsabb reagálás a változásokra
+
+### Lean Software Development (LSD)
+
+- azt tanítja, hogy ne csináljunk felesleges dolgokat.
+
+### Crystal Methods
+
+- Alistair Cockburn
+- A Crystal nem egyetlen módszer, hanem módszercsalád (family of
+methodologies), amelyet különböző típusú projektekhez lehet
+alkalmazni.
+
+### Feature‐Driven Development (FDD)
+
+- Jeff De Luca, Peter Coad (90‐es évek vége)
+- FDD = Funkció‐vezérelt fejlesztés
+- Cél: nagyobb, összetettebb projektekben is megőrizni az agilitást,
+miközben rendet és előre tervezhetőséget visz a folyamatba
+
+### Kanban
+
+- A Kanban (ejtsd: kánban) egy vizuális munkafolyamat‐kezelő módszer,
+amely segít átláthatóvá tenni a feladatokat és folyamatosan javítani a
+munkafolyamatot.
+
+## Scrum
+
+- Keretrendszer, nem módszertan.
+
+- Scrum hasonló mint rugby‐ben  tolongás
+
+- A Scrum pillérei
+- Scrum elemei
+- Product backlog
+- Sprint backlog
+- Increment
+- Szerepek ‐ Scrum Team
 
 # Matematika
 ## halmazok:

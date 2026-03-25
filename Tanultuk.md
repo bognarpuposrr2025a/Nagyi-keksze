@@ -1,14 +1,10 @@
 # Számítógép Hálózatok
 
-### A virtualizáció koncepciója
- ##### Fogalom: 
-A virtualizáció egy olyan technológia, amely lehetővé teszi,
-hogy egy fizikai számítógépen több, egymástól független virtuális gép
- (VM – Virtual Machine) fusson.
-
 # Programozás
 
 ## PLC
+
+- Bool algebra
 
 - Plc programot készítettünk
 
@@ -24,12 +20,21 @@ hogy egy fizikai számítógépen több, egymástól független virtuális gép
 
 - TP Használata
 
-## 
+## Folyamatábra
+
+- alapok
+
+- google slidesban első folyamatábra létrehozása
 
 ## Python
 
+- alapok (print, random)
 
+- első program írása pythonban
 
+- while ciklus
+
+- lista
 
 # Internet technológia
 

@@ -63,3 +63,21 @@
 - szorzattá alakítás
 - abszolút éerékes egyenletek
 - szöveges feladatok
+# digitális kultúra
+## word
+- szövegszerkesztés
+    1.  Karakter- és bekezdésformázá
+    1. Stílusok használata
+    1. Oldalbeállítás és mentés
+    1. táblzat készítés
+## exel
+1. Hivatkozások
+1.  Alapvető függvények és képletek
+1.  Logikai függvények
+1. Diagramok készítése
+1. Adatrendezés és szűrés
+## pixelgrafika
+- képek szerkesztése
+- Fájlformátumok és tömörítés
+## MI
+- AI használata

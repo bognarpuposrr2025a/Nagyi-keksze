@@ -8,7 +8,7 @@
 hűtés
 
 ## Az operációs rendszer fogalma:
- Az operációs rendszer (OS, OperaƟng System) egy alapvető szoŌver, amely:
+ Az operációs rendszer (OS, Operating System) egy alapvető szoftver, amely:
 
 * közvetít a hardver és a felhasználó között
 * biztosítja a programok futtatását,
@@ -33,15 +33,10 @@ Példák: Windows, Linux, macOS, Android, iOS.
 ##### Az éppen aktuális könyvtár munkakönyvtár kiíratása
 * cd:
 ##### Könyvtár váltás parancs
-* cd : az aktuális felhasználó /home könyvtárába való belépéshez
-* cd .. : az aktuális könyvtárhoz képest egy szinttel feljebb lépés a könyvtár
-fában.
 
 * mkdir:
 ##### Könyvtár létrehozása (make directory)
--p /home/user/1/2/3 : A teljes struktúra létrehozása, almappákkal együtt.
-rmdir
- Könyvtár törlés
+
 
 ## A virtualizáció koncepciója:
  
@@ -50,7 +45,7 @@ hogy egy fizikai számítógépen több, egymástól független virtuális gép
  (VM – Virtual Machine) fusson.
 
 #### A Hypervisor (VMM) szerepe:
-* A Hypervisor a virtualizáció alapvető szoŌverrétege.
+* A Hypervisor a virtualizáció alapvető szoftverrétege.
 A Hypervisor (más néven Virtual Machine Monitor vagy VMM).
 Ez a szoftver felel a virtuális gépek létrehozásáért, futatásáért és az
 erőforrások igazságos elosztásáért.

@@ -11,9 +11,9 @@ A mitológia szerint a világ nem egy teremtő isten műve volt hanem egy hossz�
 Minden a **Khaosszal** kezdődött egy végtelen formátlan űrrel
 Ebből a káoszból született meg először
 
-- **Gaia** – a Földanya, az anyagi világ alapja
-- **Tartarosz** – a sötét mélység, később az alvilág legmélyebb része
-- **Erosz** – a vágy és a teremtő erő
+- **Gaia**  a Földanya, az anyagi világ alapja
+- **Tartarosz**  a sötét mélység, később az alvilág legmélyebb része
+- **Erosz**  a vágy és a teremtő erő
 - **Nüx**  és **Erebosz** 
 
 Gaia egymagában szülte meg **Uranoszt**  aki ezután a férje és egyben a gyermekeinek apja lett
@@ -24,7 +24,7 @@ Uranosz és Gaia házasságából születtek meg a hatalmas **Titánok** és má
 
 - **Ókeanosz** a világot körülölelő óceán
 - **Hyperión** a fény atyja
-- **Theia** **Themis**, **Mnemoszüné** **Iapetosz** és mások
+- **Theia** **Themis** **Mnemoszüné** **Iapetosz** és mások
 - A három **Kyklóps**
 - A három **Hekatonkheir**
 

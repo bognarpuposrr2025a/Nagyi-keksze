@@ -1,1 +1,64 @@
+# Görög Istenek: Bevezetés és a világ eredete
 
+## Bevezetés
+
+A görög mitológia az egyik leggazdagabb és legbefolyásosabb történeti rendszer amit az emberiség valaha létrehozott Több mint kétezer évvel ezelőtt született történetek ma is hatással vannak ránk irodalomra filmekre pszichológiára és mindennapi nyelvünkre egyaránt
+A görögök nem egyetlen szent könyvből merítették hitüket hanem sokféle mítoszból eposzból és szájhagyományból A legfontosabb források közé tartozik Hésziodosz *Theogoniája* Istenek születése és Homérosz eposzai *Iliász* és *Odüsszeia*
+A mitológia szerint a világ nem egy teremtő isten műve volt hanem egy hosszú kaotikus folyamat eredménye tele háborúkkal árulásokkal és hatalomátvételekkel
+
+## A kezdet Khaosz és az első istenek
+
+Minden a **Khaosszal** kezdődött egy végtelen formátlan űrrel
+Ebből a káoszból született meg először
+
+- **Gaia** – a Földanya, az anyagi világ alapja
+- **Tartarosz** – a sötét mélység, később az alvilág legmélyebb része
+- **Erosz** – a vágy és a teremtő erő
+- **Nüx**  és **Erebosz** 
+
+Gaia egymagában szülte meg **Uranoszt**  aki ezután a férje és egyben a gyermekeinek apja lett
+
+## Az első generáció Az ég és a föld gyermekei
+
+Uranosz és Gaia házasságából születtek meg a hatalmas **Titánok** és más őserők
+
+- **Ókeanosz** a világot körülölelő óceán
+- **Hyperión** a fény atyja
+- **Theia** **Themis**, **Mnemoszüné** **Iapetosz** és mások
+- A három **Kyklóps**
+- A három **Hekatonkheir**
+
+Uranosz azonban félt a saját gyermekeitől ezért lenyelte őket vagy elrejtette Gaia testében Gaia végül fellázadt és rávette legkisebb fiát **Kronoszt** hogy kasztrálja apját egy sarlóval
+
+## Kronosz uralma és a Titánok kora
+
+Kronosz lett az univerzum új ura Hogy elkerülje apja sorsát ő is lenyelte saját gyermekeit akiket **Rhea** feleségétől kapott
+A lenyelt gyermekek
+- **Hesztiá**
+- **Démétér**
+- **Héra**
+- **Hadész**
+- **Poszeidón**
+- **Zeusz**
+
+Rhea azonban Zeusz esetében ravasz trükköt alkalmazott egy követ adott Kronosznak lenyelni Zeusz pedig egy titkos barlangban, Krétán nőtt fel
+
+## Zeusz lázadása és a Titánok háborúja
+
+Felnőttként Zeusz kiszabadította testvéreit Kronosz gyomrából, és szövetségre lépett a Kyklópsokkal és Hekatonkheirekkel. Hatalmas háború tört ki a Titánok és az új istenek között ezt hívjuk **Titánomachianak**
+Tíz évig tartó véres harc után Zeusz és testvérei győztek A Titánokat a Tartaroszba zárták kivéve néhányat, például Prométheuszt és Atlaszt akik más büntetést kaptak
+
+## A világ három részre osztása
+
+A győzelem után a három fő testvér sorsot húzott a világ felett
+
+- **Zeusz** kapta az **eget** és a mennydörgést ő lett az istenek királya
+- **Poszeidón** kapta a **tengert** és a vizeket
+- **Hadész** kapta az **alvilágot** és a holtak birodalmát
+
+Így alakult ki a görög világkép alapja az Olümposz hegye az istenek lakhelye a föld a halandóké a tenger Poszeidóné az alvilág pedig Hadészé
+
+## Az Olümposz születése
+
+A Titánok legyőzése után Zeusz az Olümposz hegyén rendezte be udvarát Ide költöztek a győztes istenek és itt kezdődött az olümposzi rend kora
+Ezzel lezárult a teremtés kaotikus korszaka és elkezdődött az istenek és emberek kölcsönhatásának hosszú története

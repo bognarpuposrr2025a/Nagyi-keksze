@@ -62,3 +62,21 @@ A győzelem után a három fő testvér sorsot húzott a világ felett
 
 A Titánok legyőzése után Zeusz az Olümposz hegyén rendezte be udvarát Ide költöztek a győztes istenek és itt kezdődött az olümposzi rend kora
 Ezzel lezárult a teremtés kaotikus korszaka és elkezdődött az istenek és emberek kölcsönhatásának hosszú története
+# Görög és római főistenek
+
+| Görög isten | Római megfelelő | Jelképek |
+|------------|----------------|----------|
+| Zeusz      | Jupiter        | Villám, sas, tölgyfa |
+| Héra       | Juno           | Páva, korona, gránátalma |
+| Poszeidón  | Neptunus       | Háromágú szigony, ló, delfin |
+| Démétér    | Ceres          | Búza, sarló, kenyér |
+| Athéné     | Minerva        | Bagoly, pajzs, olajfa |
+| Apollón    | Apollo         | Lant, nap, babérkoszorú |
+| Artemisz   | Diana          | Íj, szarvas, hold |
+| Árész      | Mars           | Lándzsa, pajzs, sisak |
+| Aphrodité  | Venus          | Kagyló, galamb, rózsa |
+| Héphaisztosz | Vulcanus     | Kalapács, üllő, tűz |
+| Hermész    | Mercurius      | Szárnyas saru, kaduceusz, kalap |
+| Hesztiá    | Vesta          | Tűzhely, láng |
+| Dionüszosz | Bacchus        | Szőlő, bor, borostyán |
+

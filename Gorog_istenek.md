@@ -116,3 +116,19 @@ Nemezis megbüntette Narkisszoszt, amiért az mindenkit elutasított. A fiú bel
 
 ### Hekaté és Perszephoné
 Hekaté segített Démétérnek megtalálni elrabolt lányát, Perszephonét, és később az alvilág egyik kísérőjévé vált.
+
+
+
+
+
+# Infó:
+- Csapatnév: Nagyi Keksze.
+- Tagok:
+
+    - Oldal Dávid István
+    
+    - Bognár Pupos Róbert Richárd
+
+    - Görgy Mátyás
+- GitHub link: https://github.com/bognarpuposrr2025a/Nagyi-keksze
+- Trello link: https://trello.com/b/hgEFx9iT/my-trello-board

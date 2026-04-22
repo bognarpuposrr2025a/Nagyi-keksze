@@ -1,4 +1,4 @@
-# Görög mitológia – rövid összefoglaló
+# Összefoglaló
 
 A görög mitológia egy sokforrású történetrendszer, amely nem egyetlen teremtő istenhez kötődik, hanem egy kaotikus fejlődési folyamatból alakult ki. A világ a **Khaoszból** jött létre, amelyből megszülettek az első ősi istenek, például Gaia, Tartarosz és Erosz.
 

@@ -140,8 +140,8 @@ A mellékistenek (pl. Níké, Éósz, Hekaté, Nemezis) kisebb szerepűek, de fo
 
     - Oldal Dávid István
     
-    - Bognár Pupos Róbert Richárd
+    - Bognár-Pupos Róbert Richárd
 
-    - Görgy Mátyás
+    - György Mátyás
 - GitHub link: https://github.com/bognarpuposrr2025a/Nagyi-keksze
 - Trello link: https://trello.com/b/hgEFx9iT/my-trello-board

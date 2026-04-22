@@ -80,3 +80,42 @@ Ezzel lezárult a teremtés kaotikus korszaka és elkezdődött az istenek és e
 | Hesztiá    | Vesta          | Tűzhely, láng |
 | Dionüszosz | Bacchus        | Szőlő, bor, borostyán |
 
+# Görög mellékistenek és mítoszok
+
+## Bevezetés
+Az ókori görög mitológia nemcsak a nagy olümposzi istenekről szól (mint Zeusz, Héra vagy Poszeidón), hanem számos kisebb jelentőségű, úgynevezett mellékistenről is. Ezek az istenek gyakran egy-egy természeti jelenséghez, emberi tulajdonsághoz vagy mindennapi élethelyzethez kapcsolódtak.
+
+---
+
+## Fontosabb mellékistenek
+
+### 1. Níké – a győzelem istennője
+- A győzelem megszemélyesítője
+- Gyakran szárnyakkal ábrázolták
+- Az olimpiai játékokhoz is kötődött
+
+### 2. Éósz – a hajnal istennője
+- Minden reggel ő hozta el a napfényt
+- Rózsás ujjúként is emlegették
+- Testvérei Héliosz (Nap) és Szeléné (Hold)
+
+### 3. Hekaté – a mágia és az alvilág istennője
+- A varázslat és boszorkányság patrónusa
+- Útkereszteződések védelmezője
+- Gyakran háromarcú alakban jelenik meg
+
+### 4. Nemezis – az igazságos büntetés istennője
+- Az arányos megtorlás képviselője
+- A túlzott büszkeséget (hübrisz) büntette
+
+
+## Jelentősebb mítoszok
+
+### Nemezis és Narkisszosz
+Nemezis megbüntette Narkisszoszt, amiért az mindenkit elutasított. A fiú beleszeretett saját tükörképébe, és végül belehalt ebbe a szerelembe.
+
+### Hekaté és Perszephoné
+Hekaté segített Démétérnek megtalálni elrabolt lányát, Perszephonét, és később az alvilág egyik kísérőjévé vált.
+
+## Összegzés
+A mellékistenek fontos szerepet játszottak a görög hitvilágban, mivel közelebb álltak az emberek mindennapi tapasztalataihoz. Történeteik gyakran erkölcsi tanulságokat hordoznak, és segítenek jobban megérteni az ókori görögök világképét.

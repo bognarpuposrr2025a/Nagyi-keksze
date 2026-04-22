@@ -116,6 +116,3 @@ Nemezis megbüntette Narkisszoszt, amiért az mindenkit elutasított. A fiú bel
 
 ### Hekaté és Perszephoné
 Hekaté segített Démétérnek megtalálni elrabolt lányát, Perszephonét, és később az alvilág egyik kísérőjévé vált.
-
-## Összegzés
-A mellékistenek fontos szerepet játszottak a görög hitvilágban, mivel közelebb álltak az emberek mindennapi tapasztalataihoz. Történeteik gyakran erkölcsi tanulságokat hordoznak, és segítenek jobban megérteni az ókori görögök világképét.
